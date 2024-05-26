@@ -6,7 +6,7 @@ You will also find my project report to help understand the why and the how of t
 
 # Use
 1) Download code
-2) Set the working directory to the desired path on your device.
+2) Set the working directory to the desired path on your device. (line 48)
 3) You can launch the simulation with the given parameters to see how it works
 4) To understand each parameter, I highly recommend to read the documentation of appropriate functions.
 
