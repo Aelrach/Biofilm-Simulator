@@ -2721,14 +2721,14 @@ GRID = Grid((160, 160)) # (height, length)
 
 # Main impact parameters are {Cdiv, mobility, alpha_TOX and thresholds 
 # according to the deaths complexity you chose}
-strains_dictionary = {'Strain0':{'mu_O':0.3,'mu_N':0.075, 'mu_C':2, 'mu_max':0.85, #B.VELEZENSIS-2
+strains_dictionary = {'Strain0':{'mu_O':0.3,'mu_N':0.075, 'mu_C':2, 'mu_max':0.85, #Potential antagonist-2
                                 'mobility':0.3, 
                                 'O_status':1,
                                 'O_threshold':2e-10, 'N_threshold':5e-7, 'C_threshold':0.2e-7,
                                 'alpha_TOX':0.4e-15, 'TOX_threshold':7.1e-6, 
                                 'tox_prod_penalty':1, 'tox_+_id':0,'tox_-_id':1,
                                 'Cdiv':8.1e-13, 'Shared_portion':0.5},
-                      'Strain1':{'mu_O':0.3,'mu_N':0.15, 'mu_C':1.5, 'mu_max':0.95, #B.VELEZENSIS-1
+                      'Strain1':{'mu_O':0.3,'mu_N':0.15, 'mu_C':1.5, 'mu_max':0.95, #Potential antagonist-1
                                   'mobility':0.095, 
                                   'O_status':1,
                                   'O_threshold':2e-10, 'N_threshold':5e-7, 'C_threshold':0.2e-7,
