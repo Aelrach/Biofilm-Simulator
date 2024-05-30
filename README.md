@@ -9,6 +9,7 @@ You will also find my project report to help understand the why and the how of t
 2) Set the working directory to the desired path on your device. (line 48)
 3) You can launch the simulation with the given parameters to see how it works
 4) To understand each parameter, I highly recommend to read the documentation of appropriate functions.
+5) The project's report I gave fo evaluation of the module is available in both french and english and can be helpful to understand what was done and why.
 
 # Disclaimer
 I do not recommend launching in 3D mode with more than 50x50x50 space.
